@@ -13,3 +13,6 @@
 
 >Providers can be injected using @Injectable
 >Services are mainly business logic
+
+>DTO : A Data Transfer Object is an object that carires data between objects. It is an object that is used to encapsulate data and send it from one subsystem of an application to another
+
